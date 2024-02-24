@@ -5,6 +5,7 @@
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
 Guidelines for the Submission
+
 Download the file Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV. Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
 
 Use the course videos from Module 3 and the lab ‘Hands-on Lab 5: Cleaning Data’ to help you complete these tasks.
@@ -12,12 +13,19 @@ Use the course videos from Module 3 and the lab ‘Hands-on Lab 5: Cleaning Data
 Tasks to perform:
 
 Save the CSV file as an XLSX file: Change the ‘Viewing’ in the ToolTip to ‘Editing’inorder to save the file as an XLSX file. The file is converted when you click ‘Convert’ in the prompt.
+
 Column widths: Sort out the widths of all columns so that the data is clearly visible in all cells.
+
 Empty rows: Use the Filter feature to look for blanks and remove all empty rows from the data.
+
 Duplicate records: Use either the Conditional Formatting or Remove Duplicates feature to look for and remove any duplicated records from the data.
+
 Spelling: The original source file data has not been checked for errors in the spelling. Check for spelling mistakes in the data and fix them.
+
 Whitespace: Use the Find and Replace feature to remove all double-spaces from the data.
+
 Department names: When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Use Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns.
+
 Department	Department
 Board of Elections	Economic Development
 Circuit Court	Environmental Protection
@@ -29,10 +37,12 @@ County Executives Office
 Download your workbook: Use‘Save As’and select‘Download a copy’ to download your completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX.
 
 
+
 **Assignment 2 Scenario**
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
 
 Guidelines for the Submission
+
 Download and open the Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX file in Excel for the web.
 
 Use the course videos from Module 4 and the lab ‘Hands-on Lab 7: Using Pivot Tables’ to help you complete these tasks.
