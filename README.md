@@ -39,6 +39,7 @@ Download your workbook: Use‘Save As’and select‘Download a copy’ to downl
 
 
 **Assignment 2 Scenario**
+
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
 
 Guidelines for the Submission
