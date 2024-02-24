@@ -52,7 +52,7 @@ Tasks to perform:
 
 1.Format the data as a table: Use the Format as Table option to format the data as a table.
 
-2. Use AutoSum to calculate values: Use AutoSum to find the following values for column ‘C’ and record each of the values:
+2.Use AutoSum to calculate values: Use AutoSum to find the following values for column ‘C’ and record each of the values:
 SUM
 AVERAGE
 MIN
